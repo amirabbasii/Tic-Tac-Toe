@@ -5,7 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## About Project
 
-This game is implemented by React. Tic-Tac-Toe is the game which two players should choose several sequntial actions to win the game. This project has two options. The first option is multiplayer which two players can play. The sceond option is single player and player should play with machine. Automated player is maed through artificial intelligence which uses some saved weights to choose the best action. Weights are a josn file placed in "src/components/data.json".
+This game is implemented by React. Tic-Tac-Toe is the game which two players should choose several sequntial actions to win the game. This project has two options:
+
+ The first option is multiplayer which two players can play. The sceond option is single player and player should play with machine. Automated player is maed through artificial intelligence which uses some saved weights to choose the best action. Weights are a josn file placed in "src/components/data.json".
 
 ## Available Scripts
 
