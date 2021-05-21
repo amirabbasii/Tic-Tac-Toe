@@ -3,6 +3,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
+<img src="images/2.png" height=300 width=300 />
+
 ## About Project
 
 This game is implemented by React. Tic-Tac-Toe is the game which two players should choose several sequntial actions to win the game. This project has two options:
