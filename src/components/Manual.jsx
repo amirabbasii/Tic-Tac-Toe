@@ -75,7 +75,7 @@ class Manual extends  Component {
     return (
      
       
-        <div className="game" style={{padding:"2rem",width:"80%",paddingLeft:"5%",minWidth:"400px"}}>
+        <div className="game" style={{padding:"2rem",width:"80%",height:"80%",paddingLeft:"5%",minWidth:"400px"}}>
     
           <div className="game-board">
       <Board

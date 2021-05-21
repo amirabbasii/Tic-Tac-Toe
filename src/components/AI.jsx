@@ -147,7 +147,7 @@ const history = this.state.history.slice(0, this.state.stepNumber + 1);
     return (
      
       
-        <div className="game" style={{padding:"2rem",width:"80%",paddingLeft:"5%",minWidth:"400px"}}>
+        <div className="game" style={{padding:"2rem",width:"80%",paddingLeft:"5%",minWidth:"400px",minHeight:"290px"}}>
     
           <div className="game-board">
       <Board

@@ -10,19 +10,19 @@ const Main = () => {
 
   return (
   <div>
-   <div className="game" style={{paddingLeft:"40%",paddingTop:"10%"}}>
+   <div className="game" style={{paddingLeft:"10%",paddingTop:"10%"}}>
 	<Switch>
 	 <Route path='//'>
     	 <nav>
           <ul>
             <ol>
          <Link to="/Manual">
- 	   <Button variant="contained" style={{margin: '200 ',fontSize: 30,padding: '5% 10.5%'}} color="primary">Signle</Button>
+ 	   <Button variant="contained" style={{margin: '2%',fontSize:'2vw',padding: '5% 10%'}} color="primary">Signle</Button>
     	 </Link>
     	 </ol>
     	 <ol>
     	  <Link to="/AI">
- 	   <Button variant="contained" style={{margin: '200 ',fontSize: 30,padding: '5% 10%'}} color="primary">AI mode</Button>
+ 	   <Button variant="contained" style={{margin: '2%',fontSize: '2vw',padding: '5% 10%'}} color="primary">AI mode</Button>
     	 </Link>
     	 </ol>
     	 </ul>
